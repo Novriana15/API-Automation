@@ -1,0 +1,11 @@
+{
+    "success": {
+        "name": "Produk Kecantikan",
+        "description": "Produk Kecantikan dan Skincare Mantul" 
+    },
+    "failed": {
+        "name": null, 
+        "description": null
+    }
+ }
+ 

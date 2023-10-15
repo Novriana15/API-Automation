@@ -1,0 +1,10 @@
+{
+    "success": {
+        "name": "Produk Rumah Tangga",
+        "description": "Produk Rumah Tangga Aesthetic" 
+    },
+    "failed": {
+        "name": "", 
+        "description": ""
+    }   
+}

@@ -1,0 +1,10 @@
+{
+    "success": {
+        "email": "novriana@gmail.com",
+        "password": "Bebas1"
+    },
+    "failed": {
+        "email": "asep@gmail.com",
+        "password": "hehehe123"
+    }
+}
